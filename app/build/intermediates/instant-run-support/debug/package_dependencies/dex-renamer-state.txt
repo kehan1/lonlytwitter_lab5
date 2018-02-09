@@ -1,0 +1,4 @@
+#Fri Feb 09 12:53:57 MST 2018
+base.0=/Users/kehanwang/Desktop/cmput301/lab5/app/build/intermediates/transforms/dexMerger/debug/11
+path.0=classes.dex
+renamed.0=classes.dex
